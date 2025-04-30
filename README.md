@@ -6,6 +6,12 @@ This repository contains the solutions to the Data Analyst Intern assignment by 
 
 ---
 
+## 🧩 Problem Statement
+
+Alt Mobility, an EV leasing company managing 20,000+ vehicles, wants to uncover operational and financial insights from its order and payment data. This analysis aims to improve fleet efficiency, customer engagement, and payment processes through data-driven decision making.
+
+---
+
 ## 🧠 Approach
 
 I divided the problem into five analytical tasks, each addressed using SQL or Python where required.
@@ -14,7 +20,7 @@ I divided the problem into five analytical tasks, each addressed using SQL or Py
 
 ### ✅ Task 1: Order and Sales Analysis
 
-**Objective:** Analyze order status and sales data to uncover trends in revenue and fulfillment.
+**Objective:** Analyze order status and sales data to uncover trends in revenue and fulfilment.
 
 **SQL Highlights:**
 - Total unique customers
