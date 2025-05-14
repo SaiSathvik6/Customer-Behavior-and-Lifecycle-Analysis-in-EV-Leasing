@@ -1,4 +1,4 @@
-# 🚗 Alt Mobility – Data Analyst Assignment
+# 🚗 Alt Mobility
 
 ## 📋 Overview
 
