@@ -2,7 +2,7 @@
 
 ## 📋 Overview
 
-This repository contains the solutions to the Data Analyst Intern assignment by **Alt Mobility**, which includes SQL-based analysis and a customer retention visualization. The goal is to derive business insights from `customer_orders.csv` and `payments.csv` related to electric vehicle leasing operations.
+The goal is to derive business insights from `customer_orders.csv` and `payments.csv` related to electric vehicle leasing operations.
 
 ---
 
